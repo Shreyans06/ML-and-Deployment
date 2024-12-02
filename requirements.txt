@@ -2,3 +2,6 @@ scikit-learn
 flask
 streamlit
 scikit-learn
+kaggle
+matplotlib
+seaborn
